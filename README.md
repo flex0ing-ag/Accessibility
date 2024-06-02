@@ -1,2 +1,2 @@
 # Accessibility
- This is a basic website whic hI created to learn HTML/CSS.
+ This is a basic website which I created to learn HTML/CSS.
